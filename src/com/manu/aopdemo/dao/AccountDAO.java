@@ -19,7 +19,7 @@ public class AccountDAO {
         List<Account> myAccounts = new ArrayList<>();
 
         // create sample accounts
-        Account temp1 = new Account("Jahn", "Silver");
+        Account temp1 = new Account("John", "Silver");
         Account temp2 = new Account("Cool", "Public");
         Account temp3 = new Account("Didine", "Kelly");
 
