@@ -1,4 +1,8 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin"
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/emmanueltuyisenge/Downloads/aspectjweaver-1.9.7.jar"
+  ]
 }
